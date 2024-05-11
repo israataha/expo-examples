@@ -32,7 +32,8 @@
           "domain": "dev-itaha.us.auth0.com"
         }
       ],
-      "expo-router"
+      "expo-router",
+      "expo-secure-store"
     ],
     "scheme": "com.taha.expo.auth0.passwordrealm"
   }
